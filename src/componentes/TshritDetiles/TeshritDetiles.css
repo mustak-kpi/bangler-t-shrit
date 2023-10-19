@@ -1,0 +1,14 @@
+.tshrit-detiles img{
+    width: 250px;
+    height: 150px;
+}
+.tshrit-detiles{
+    border: 2px solid slateblue;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px 5px;
+}
+
+.bay-tshrit{
+    background-color: aquamarine;
+}
